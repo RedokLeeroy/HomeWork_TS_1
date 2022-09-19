@@ -1,0 +1,7 @@
+.row {
+  background: #ffffff;
+}
+
+.row:nth-child(2n) {
+  background: #f0f4fd;
+}
